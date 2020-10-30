@@ -5,4 +5,4 @@ Git tracks changes of files.
 test the most important changes.
 test the ssh connection.
 check the branch managing.
-Creating a new brach is quick & simple.
+Creating a new branch is quick and easy. 
