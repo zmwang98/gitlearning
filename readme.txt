@@ -6,4 +6,5 @@ test the most important changes.
 test the ssh connection.
 check the branch managing.
 Creating a new branch is quick and easy. 
-The no-ff could always save the version history. 
+The no-ff could always save the version history.
+Branch dev doesn't finish  now. 
