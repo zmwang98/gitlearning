@@ -8,3 +8,4 @@ check the branch managing.
 Creating a new branch is quick and easy. 
 The no-ff **fix bugs here ** could always save the version history. 
 Branch dev doesn't finish  now. 
+Try push command and understand  it.
